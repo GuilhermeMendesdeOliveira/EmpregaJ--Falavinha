@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+@media screen and (min-width:460px) and (max-width: 768px) {
+    body{
+        background-color: white;
+        width: auto;
+        height: auto;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    header {
+        background: black url(../assets/fundo-mobile.jpg) no-repeat;
+        background-size: cover;
+        background-position: center center;
+        margin: auto;
+        width: auto;
+        height: auto;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    main {
+        background-color: rgba(0, 0, 255, 0.438);
+        width: auto;
+        margin: 10px;
+        padding: 5px;
+        text-align: center;
+        border-radius: 10px;
+        box-shadow: 10px 10px 10px black;
+        border: 1px solid black;
+    }
+
+    footer {
+        background-color: gray;
+        width: auto;
+        margin: auto;
+        margin-top: 20px;
+        padding: 10px;
+        height: auto;
+    }
+
+    .phone{display: block;}
+    .tablet{display: none;}
+    .desktop{display: none;}
+    .Tv{display: none;}
+
+    #col-descri-header{display: block;}
+    #col-form-header{display: none;}
+
+    #col-banner-desktop{display: none;}
+    #col-banner-tv{display: none;}
+
+    #informacao-col{display: block;}
+    #logo-col{display: none;}
+    #redes-col{display: block;}
+
+    #col-info-img{display: none;}
+}

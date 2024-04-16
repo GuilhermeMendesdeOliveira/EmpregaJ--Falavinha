@@ -1,0 +1,26 @@
+.input-style-all{
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    font-weight: bold;
+    height: auto;
+    padding: 10px;
+}
+
+#titulo-form{
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-size: 32px;
+    text-decoration: underline;
+    padding: 5px;
+}
+#btn-cadastrar{
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+}
+
+#btn{
+    box-shadow: 3px 3px 20px black;
+}

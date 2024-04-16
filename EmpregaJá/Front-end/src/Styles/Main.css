@@ -1,0 +1,36 @@
+.form-cadastro-conteudo{
+    margin: auto;
+}
+
+#titulo-planos{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+#form-style{
+    text-align: start;
+    width: auto;
+    background-color: rgba(0, 0, 255, 0.479);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.Btn-Form{
+    text-align: center;
+}
+
+.btn-salvar{
+    text-align: center;
+    margin: 10px;
+    box-shadow: 3px 3px 5px black;
+    font-family: "Oswald", sans-serif;
+    font-size: 18px;
+}
+
+.aviso{
+    margin: 10px;
+    text-align: center;
+}

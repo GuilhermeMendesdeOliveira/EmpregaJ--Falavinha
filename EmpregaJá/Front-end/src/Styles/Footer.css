@@ -1,0 +1,32 @@
+.informacao{
+    align-items: start;
+    margin: auto;
+    width: auto;
+    text-align: start;
+    font-family: "Oswald", sans-serif;
+    font-size: 14px;
+}
+.icons-footer{
+    text-align: center;
+    margin: auto;
+}
+.logo-footer{
+    text-align: center;
+    margin: auto;
+}
+
+#powered{
+    justify-content: center;
+    margin: auto;
+    width: auto;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-size: 14px;
+}
+
+FontAwesomeIcon{
+    margin: 5px;
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+}

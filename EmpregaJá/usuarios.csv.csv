@@ -1,0 +1,88 @@
+id,nome,email,telefone,uf,cidade,data_nasc,vaga,pretensao,plano
+1,Gabriel,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1995,Tecnologia,2000,Ouro
+2,Guilherme,email@gmail.com,(44) 777777,SP,"São 
+Paulo",20/02/1994,Tecnologia,3000,Prata
+3,Jeniffer,email@gmail.com,(31) 444477,PR,Curitiba,20/02/1999,Direito,2500,Diamante
+4,Eduarda,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1999,Administracao,2000,Ouro
+5,Gabriel,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1995,Direito,2000,Ouro
+6,Marcelo,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Tecnologia,2000,Gratis
+7,Junior,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Direito,2000,Ouro
+8,Jeniffer,email@gmail.com,(31) 444477,PR,Curitiba,20/02/1999,Direito,2500,Diamante
+9,Eduarda,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1999,Administracao,2000,Ouro
+10,Gabriel,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1995,Direito,2000,Ouro
+11,Marcelo,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Tecnologia,2000,Gratis
+12,Junior,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Direito,2000,Ouro
+13,Jeniffer,email@gmail.com,(31) 444477,PR,Curitiba,20/02/1999,Direito,2500,Diamante
+14,Eduarda,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1999,Administracao,2000,Ouro
+15,Gabriel,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1995,Direito,2000,Ouro
+16,Marcelo,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Tecnologia,2000,Gratis
+17,Junior,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Direito,2000,Ouro
+18,Jeniffer,email@gmail.com,(31) 444477,PR,Curitiba,20/02/1999,Direito,2500,Diamante
+19,Eduarda,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1999,Administracao,2000,Ouro
+20,Gabriel,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1995,Direito,2000,Ouro
+21,Marcelo,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Tecnologia,2000,Gratis
+22,Junior,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Direito,2000,Ouro
+23,Jeniffer,email@gmail.com,(31) 444477,PR,Curitiba,20/02/1999,Direito,2500,Diamante
+24,Eduarda,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1999,Administracao,2000,Ouro
+25,Gabriel,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1995,Direito,2000,Ouro
+26,Marcelo,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Tecnologia,2000,Gratis
+27,Junior,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Direito,2000,Ouro
+28,Jeniffer,email@gmail.com,(31) 444477,PR,Curitiba,20/02/1999,Direito,2500,Diamante
+29,Eduarda,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1999,Administracao,2000,Ouro
+30,Gabriel,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1995,Direito,2000,Ouro
+31,Marcelo,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Tecnologia,2000,Gratis
+32,Junior,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Direito,2000,Ouro
+33,Jeniffer,email@gmail.com,(31) 444477,PR,Curitiba,20/02/1999,Direito,2500,Diamante
+34,Eduarda,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1999,Administracao,2000,Ouro
+35,Gabriel,email@gmail.com,(31) 777777,SP,"São 
+Paulo",20/02/1995,Direito,2000,Ouro
+36,Marcelo,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Tecnologia,2000,Gratis
+37,Junior,email@gmail.com,(31) 777777,RJ,Rio de Janeiro,20/02/1995,Direito,2000,Ouro
+38,Joao,email@gmail.com,(12) 123874127,MG,Belo Horizonte,14/09/1987,Motorista,1800,Gratis
+39,Jose,email@gmail.com,(12) 123874127,RJ,Rio de Janeiro,14/09/1990,Cozinheiro,3800,Diamante
+40,Joana,email@gmail.com,(12) 123874127,SP,Sao Paulo,14/09/1967,Motorista,2800,Gratis
+41,Ana,email@gmail.com,(12) 123874127,SP,Sao Paulo,14/09/1990,Motorista,3000,Prata
+42,Theo,email@gmail.com,(12) 123874127,MG,Belo Horizonte,14/09/1997,Administracao,5000,Gratis
+43,Gael,email@gmail.com,(12) 123874127,RJ,Rio de Janeiro,14/09/1987,Motorista,2400,Gratis
+44,Ariel,email@gmail.com,(12) 123874127,SP,Sao Paulo,14/09/1987,Motorista,1700,Gratis
+45,Marta,email@gmail.com,(12) 123874127,PR,Curitiba,14/09/1970,Direito,3500,Prata
+46,Lucas,email@gmail.com,(12) 123874127,MG,Belo Horizonte,14/09/1995,Motorista,2200,Ouro
+47,Bia,email@gmail.com,(12) 123874127,PR,Curitiba,14/09/1991,Tecnologia,1500,Gratis
+48,Bete,email@gmail.com,(12) 123874127,SC,Florianopolis,14/09/1992,Administracao,2800,Ouro
+49,Joao,email@gmail.com,(12) 123874127,MG,Belo Horizonte,14/09/1987,Motorista,1800,Gratis
+50,Jose,email@gmail.com,(12) 123874127,RJ,Rio de Janeiro,14/09/1990,Cozinheiro,3800,Diamante
+51,Joana,email@gmail.com,(12) 123874127,SP,Sao Paulo,14/09/1967,Motorista,2800,Gratis
+52,Ana,email@gmail.com,(12) 123874127,SP,Sao Paulo,14/09/1990,Motorista,3000,Prata
+53,Theo,email@gmail.com,(12) 123874127,MG,Belo Horizonte,14/09/1997,Administracao,5000,Gratis
+54,Gael,email@gmail.com,(12) 123874127,RJ,Rio de Janeiro,14/09/1987,Motorista,2400,Gratis
+55,Ariel,email@gmail.com,(12) 123874127,SP,Sao Paulo,14/09/1987,Motorista,1700,Gratis
+56,Marta,email@gmail.com,(12) 123874127,PR,Curitiba,14/09/1970,Direito,3500,Prata
+57,Lucas,email@gmail.com,(12) 123874127,MG,Belo Horizonte,14/09/1995,Motorista,2200,Ouro
+58,Bia,email@gmail.com,(12) 123874127,PR,Curitiba,14/09/1991,Tecnologia,1500,Gratis
+59,Bete,email@gmail.com,(12) 123874127,SC,Florianopolis,14/09/1992,Administracao,2800,Ouro
+60,Joao,email@gmail.com,(12) 123874127,MG,Belo Horizonte,14/09/1987,Motorista,1800,Gratis
+61,Jose,email@gmail.com,(12) 123874127,RJ,Rio de Janeiro,14/09/1990,Cozinheiro,3800,Diamante
+62,Joana,email@gmail.com,(12) 123874127,SP,Sao Paulo,14/09/1967,Motorista,2800,Gratis
+63,Ana,email@gmail.com,(12) 123874127,SP,Sao Paulo,14/09/1990,Motorista,3000,Prata
+64,Theo,email@gmail.com,(12) 123874127,MG,Belo Horizonte,14/09/1997,Administracao,5000,Gratis
+65,Gael,email@gmail.com,(12) 123874127,RJ,Rio de Janeiro,14/09/1987,Motorista,2400,Gratis
+66,Ariel,email@gmail.com,(12) 123874127,SP,Sao Paulo,14/09/1987,Motorista,1700,Gratis
+67,Marta,email@gmail.com,(12) 123874127,PR,Curitiba,14/09/1970,Direito,3500,Prata
+68,Lucas,email@gmail.com,(12) 123874127,MG,Belo Horizonte,14/09/1995,Motorista,2200,Ouro
+69,Bia,email@gmail.com,(12) 123874127,PR,Curitiba,14/09/1991,Tecnologia,1500,Gratis
+70,Bete,email@gmail.com,(12) 123874127,SC,Florianopolis,14/09/1992,Administracao,2800,Ouro
+71,Ana Julia,anajulia@gmail.com,(41)988256660,PR,Curitiba,05/05/2001,Direito,2000,Ouro

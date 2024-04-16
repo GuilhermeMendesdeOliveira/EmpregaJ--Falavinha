@@ -1,0 +1,9 @@
+main .row-banner-rotativo{
+    margin: auto;
+    margin-bottom: 15px;
+    width: 100%;
+    height: auto;
+    font-family: "Oswald", sans-serif;
+    padding: 10px;
+    border-radius: 10px;
+}
