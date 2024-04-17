@@ -1,9 +1,26 @@
 # Emprega já - Falavinha
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeMendesdeOliveira/EmpregaJa-Falavinha/blob/main/LICENSE)
 
-## Sobre o projeto
+## :rocket: Sobre o projeto :rocket:
 
 Este projeto consiste em uma aplicação web desenvolvida em **React** utilizando Vite como bundler. A aplicação se conecta com uma **API REST** para acessar um banco de dados SQLite. Além disso, inclui uma dashboard desenvolvida no **Power BI**, que acessa os dados inseridos no banco de dados da aplicação Web.
+
+### :computer: Layout da aplicação web Desktop 
+
+![aplicação web desktop](https://github.com/GuilhermeMendesdeOliveira/workshop-spring-boot-mongodb/blob/main/assets/Formulario%20de%20Cadastro.JPG)
+
+
+### :iphone: Layout da aplicação web Mobile 
+
+![aplicação web mobile](https://github.com/GuilhermeMendesdeOliveira/workshop-spring-boot-mongodb/blob/main/assets/Inicio%20Mobile.JPG)
+
+## Dashboard Power BI
+
+Desenvolvimento de uma dashboard em **Power BI** para gerenciamento dos dados obtidos através do banco de dados da aplicação. Obtendo informações crucias para tomadas de decisões da empresa para uma melhor performace.
+
+### Layout da Dashboard
+
+![imagem dashboar power bi](https://github.com/GuilhermeMendesdeOliveira/workshop-spring-boot-mongodb/blob/main/assets/DashBoard%20Powe%20BI.JPG)
 
 ## Tecnologias e Conceitos Utilizados
 
@@ -14,7 +31,7 @@ Este projeto consiste em uma aplicação web desenvolvida em **React** utilizand
 - Mobile First
 - API REST
 
-  ## Pré-requisitos
+  ## :warning: Pré-requisitos :warning:
 
   Antes de iniciar, certifique-se de ter instalado o Node.js e o npm na sua máquina.
 
